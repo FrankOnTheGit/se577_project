@@ -22,4 +22,4 @@ Incorporating multiple options means more complexity and more costs. In some cir
 
 Supporting Architecture Diagrams
 --------------------------------
-![SE_diag](./img/adr2_diag.jpg "ADR2")
+![SE_diag2](./img/adr2_diag.jpg "ADR2")
