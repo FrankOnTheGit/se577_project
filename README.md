@@ -1,5 +1,9 @@
-# se577_project
-SE577 Spring 2024 term project
+# SE577_project
+Frank Albright
+SE 577, Spring Quarter 2024
+College of Computing and Informatics
+Drexel University
+
 
 JFS’s Management Tool Delivers For Patients and Doctors Alike
 =============================================================
