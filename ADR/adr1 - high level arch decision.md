@@ -1,6 +1,8 @@
 1. Healthcare tool software architecture
+========================================
 
 Context and Problem Statement
+-----------------------------
 There are multiple software architectures that could provide a solution for the JFS Healthcare tool.
 
 Considered Options
