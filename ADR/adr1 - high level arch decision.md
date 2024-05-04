@@ -23,4 +23,4 @@ The choice for SOA means:
 
 Supporting Architecture Diagrams
 --------------------------------
-![Alt text](/img/adr1_diag.jpg "ADR1")
+![](/img/adr1_diag.jpg "ADR1")
