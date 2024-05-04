@@ -1,7 +1,10 @@
-# SE577_project
+# SE577_project README
 Frank Albright
+
 SE 577, Spring Quarter 2024
+
 College of Computing and Informatics
+
 Drexel University
 
 
