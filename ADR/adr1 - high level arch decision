@@ -16,4 +16,4 @@ The choice for SOA means:
 •	incremental code changes will require more expenditure (time and materials),
 •	the ESB is a single point of failure.
 Supporting Architecture Diagrams
- ![Alt text](./se577_project/img/adr1_diag.jpg?raw=true "ADR1")
+ ![Alt text](/img/adr1_diag.jpg?raw=true "ADR1")
