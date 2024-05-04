@@ -1,5 +1,5 @@
-1. Healthcare tool software architecture
-========================================
+Healthcare tool software architecture
+=====================================
 
 Context and Problem Statement
 -----------------------------
